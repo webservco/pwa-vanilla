@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text eol=lf
+# Binary files
+*.gif binary
+*.jpg binary
+*.pdf binary
+*.png binary
